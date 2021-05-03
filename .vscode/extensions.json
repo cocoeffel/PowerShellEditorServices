@@ -5,6 +5,8 @@
         "ms-dotnettools.csharp",
         "ms-vscode.powershell",
         "davidanson.vscode-markdownlint",
-        "editorconfig.editorconfig"
+        "editorconfig.editorconfig",
+        "gquittet.vscode-better-sql-extension-pack",
+        "mtxr.sqltools-driver-mssql"
     ]
 }
